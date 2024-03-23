@@ -20,7 +20,7 @@
 </head> 
 
 <body>
-
+    <!--calculo do formulario de notas-->
     <h1>Cálculo da Média e Situação do Aluno</h1>
     <form action= "calculo_notas.php" method="POST">  
 
